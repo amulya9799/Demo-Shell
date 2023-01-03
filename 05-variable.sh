@@ -2,4 +2,4 @@ trainer=raghu
 class=devops
 
 echo trainer name-$trainer
-echo class name-$devops
+echo class name-${devops}
